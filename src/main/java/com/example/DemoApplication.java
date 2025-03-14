@@ -9,6 +9,9 @@ public class DemoApplication {
       int a=10;
       double d=20.3;
 
+
+      float f=20.3f;
+    	char c='c';
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
