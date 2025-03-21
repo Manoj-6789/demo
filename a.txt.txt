@@ -6,7 +6,13 @@ manoj kumar roul
 manoj
 }
 
+<<<<<<< Updated upstream
 //new feature
 class d{
 System.out.println("d");
 }
+=======
+class a{
+System.out.print
+}
+>>>>>>> Stashed changes
