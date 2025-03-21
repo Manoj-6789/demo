@@ -5,3 +5,8 @@ manoj kumar roul
 manoj kumar roul
 manoj
 }
+
+//new feature
+class d{
+System.out.println("d");
+}
